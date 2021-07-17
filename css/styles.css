@@ -496,7 +496,7 @@ img {
 }
 
 .join-us-social-list-link:hover,
-.join-us-social.list-link:focus {
+.join-us-social-list-link:focus {
   fill: var(--white-color);
   background-color: var(--blue-color);
 }
