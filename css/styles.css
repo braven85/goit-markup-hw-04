@@ -175,7 +175,7 @@ img {
 /* ==== EFFECTIVE SOLUTIONS ==== */
 
 .effective-solutions {
-  background-image: linear-gradient(rgba(47, 50, 58, 0.4), rgba(47, 50, 58, 0.4)), url("./images/mainPageBackground.png");
+  background-image: linear-gradient(rgba(47, 50, 58, 0.4), rgba(47, 50, 58, 0.4)), url("../images/mainPageBackground.png");
   background-size: 1600px;
   background-repeat: no-repeat;
   background-color: rgba(47, 50, 58, 0.4);
