@@ -578,6 +578,7 @@ img {
   width: 370px;
   height: 404px;
   border-bottom: 1px solid var(--header-border-color);
+  background-color: var(--white-color);
 }
 
 .portfolio-list-item:hover,
